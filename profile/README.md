@@ -17,9 +17,9 @@ of AI, we invite you to join us in this exciting journey.
 
 This document contains the following guides:
 
-- [LLMsLab Infrastructure](https://github.com/LLMsLab/.github/edit/main/profile/README.md#llmslab-infrastructure)
-- [MLOps with Hugging Face Spaces, Gradio and GitHub Actions](https://github.com/LLMsLab/.github/edit/main/profile/README.md#mlops-with-hugging-face-spaces-gradio-and-github-actions)
-- [How to Contribute](https://github.com/LLMsLab/.github/edit/main/profile/README.md#how-to-contribute)
+- [LLMsLab Infrastructure](https://github.com/LLMsLab#llmslab-infrastructure)
+- [MLOps with Hugging Face Spaces, Gradio and GitHub Actions](https://github.com/LLMsLab#mlops-with-hugging-face-spaces-gradio-and-github-actions)
+- [How to Contribute](https://github.com/LLMsLab#how-to-contribute)
 
 # LLMsLab Infrastructure
 
