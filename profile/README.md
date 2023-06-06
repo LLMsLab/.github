@@ -151,7 +151,9 @@ graph TD
 
 > The process outlined below involves setting up a repository similar to
 > the one linked here on GitHub:
-> [hugging-face-demo](https://github.com/markeyser/hugging-face-demo).
+> [hugging-face-demo](https://github.com/markeyser/hugging-face-demo). The final
+> text summarization application hosted and running on Hugging Face Spaces is
+> [Demo](https://huggingface.co/spaces/magkey/demo)
 
 - The next phase involves cloning the repository to start the
   development process in a different environment.
