@@ -428,7 +428,7 @@ Devoted to understand how to use Hugging Face Spaces, Gradio and GitHub Action f
   yourself". Now add your `main.yml` file and paste the following
   content in:
 
-```yaml=
+```yml
 # This is a basic workflow to help you get started with Actions
 
 name: Sync to Hugging Face hub
