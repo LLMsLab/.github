@@ -355,6 +355,14 @@ with gr.Interface(predict, "textbox", "text") as interface:
 
 Check the application by pasting some text to summarize.
 
+First run the application:
+
+```bash
+$ python app.py
+```
+
+Pass some text to summarize.
+
 
 ## Preparing for Deployment: Generating Hugging Face Access Token and Configuring GitHub Secrets
 
