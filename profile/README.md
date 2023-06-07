@@ -405,7 +405,7 @@ license: cc
 ---
 
 
-[![Sync to Hugging Face hub](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/markeyser/hugging-face-demo/actions/workflows/main.yml/badge.svg)](https://github.com/markeyser/hugging-face-demo/actions/workflows/main.yml)
 
 # hugging-face-demo
 Devoted to understand how to use Hugging Face Spaces, Gradio and GitHub Action for DevOps (CD)
@@ -428,7 +428,7 @@ Devoted to understand how to use Hugging Face Spaces, Gradio and GitHub Action f
   yourself". Now add your `main.yml` file and paste the following
   content in:
 
-```yml=
+```yaml=
 # This is a basic workflow to help you get started with Actions
 
 name: Sync to Hugging Face hub
