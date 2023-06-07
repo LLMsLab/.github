@@ -67,6 +67,22 @@ width=90 alt="abc"/> <img
   src="https://voltrondata.com/assets/images/resources/2023-02-16/main-image-blog.jpg"
   width=200/>
 
+> This article details an end-to-end process for creating an app on top of Large 
+Language Models, showcasing an example of MLOps with Hugging Face Spaces, Gradio, 
+and GitHub Actions. We will follow the steps of setting up a repository similar 
+to the one shared on GitHub, which can be found 
+here: [hugging-face-demo](https://github.com/markeyser/hugging-face-demo). 
+The resulting product of this procedure is a text summarization application 
+that is hosted and operational on Hugging Face Spaces, 
+viewable at this link: [Demo](https://huggingface.co/spaces/magkey/demo). 
+
+> The entire process is carefully outlined in an accompanying YouTube 
+guide, which offers step-by-step visuals to help ensure a seamless setup. 
+You can access the guide here: [MLOps Tutorial Video](https://youtu.be/VYSGjUa5sc4). 
+By utilizing this tutorial, you'll learn to deploy robust applications on 
+Hugging Face Spaces, enabling you to leverage the power of Large 
+Language Models in your own projects. 
+
 This tutorial illustrates how to deploy an application on Hugging Face
 Spaces using continuous delivery, a true ML Ops workflow.
 
@@ -148,12 +164,6 @@ graph TD
 - The process thus far is quite straightforward. 
 
 ## Cloning the Repository and Setting Up GitHub Code Spaces for Development
-
-> The process outlined below involves setting up a repository similar to
-> the one linked here on GitHub:
-> [hugging-face-demo](https://github.com/markeyser/hugging-face-demo). The final
-> text summarization application hosted and running on Hugging Face Spaces is
-> [Demo](https://huggingface.co/spaces/magkey/demo)
 
 - The next phase involves cloning the repository to start the
   development process in a different environment.
