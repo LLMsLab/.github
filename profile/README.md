@@ -23,6 +23,17 @@ This document contains the following guides:
 
 # LLMsLab Infrastructure
 
+<a href="https://huggingface.co/LLMsLab">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="60" alt="Join our Hugging Face organization">
+</a>
+<a href="https://llmslab.slack.com">
+  <img src="https://img.icons8.com/color/48/slack-new.png" width="60" alt="Join our Slack workspace">
+</a>
+<a href="https://colab.research.google.com/">
+  <img src="https://img.icons8.com/color/48/google-colab.png" width="60" alt="Google Colab">
+</a>
+
+
 - **Version Control:** We leverage **GitHub**, a robust platform for
 collaborative coding and version control.
 - **IDEs:** Our toolkit includes **Visual Studio Code** for a powerful
