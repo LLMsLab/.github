@@ -32,6 +32,9 @@ This document contains the following guides:
 <a href="https://colab.research.google.com/">
   <img src="https://img.icons8.com/color/48/google-colab.png" width="60" alt="Google Colab">
 </a>
+<a href="https://llmlab.atlassian.net/jira/software/projects/QAL/boards/1">
+  <img src="https://img.icons8.com/color/48/jira.png" width="60" alt="Jira">
+</a>
 
 
 - **Version Control:** We leverage **GitHub**, a robust platform for
