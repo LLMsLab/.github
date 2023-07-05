@@ -1622,6 +1622,6 @@ Hugging Face contains interesting articles.
   Canvas, AutoPilot, DataWrangler, Lambda & S3. Introductory course to
   ML/AI with AWS SageMaker.
 
-### Hugging Face
+#### Hugging Face
 
 - [Daily Papers](https://huggingface.co/papers)
