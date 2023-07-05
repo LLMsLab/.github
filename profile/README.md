@@ -20,6 +20,7 @@ This document contains the following guides:
 - [LLMsLab Infrastructure](https://github.com/LLMsLab#llmslab-infrastructure)
 - [MLOps with Hugging Face Spaces, Gradio and GitHub Actions](https://github.com/LLMsLab#mlops-with-hugging-face-spaces-gradio-and-github-actions)
 - [How to Contribute](https://github.com/LLMsLab#how-to-contribute)
+- [Resources](https://github.com/LLMsLab#resources)
 
 # LLMsLab Infrastructure
 
@@ -1557,3 +1558,66 @@ with open('example.txt', 'w') as f:
 
 files.download('example.txt')
 ```
+
+## Resources
+
+### Frameworks
+
+- [LangChain](https://python.langchain.com/docs/get_started/introduction.html):
+  LangChain is a framework for developing applications powered by
+  language models.
+- [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a simple,
+flexible data framework for connecting custom data sources to large
+language models.
+
+### Vector Databases
+
+- [Chroma](https://docs.trychroma.com/): Chroma is the open-source
+  embedding database. Chroma makes it easy to build LLM apps by making
+  knowledge, facts, and skills pluggable for LLMs.
+
+### Training
+
+#### DeepLearningAI
+
+- [Learn the fundamentals of generative AI for real-world
+  applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
+  In Generative AI with Large Language Models (LLMs), you’ll learn the
+  fundamentals of how generative AI works, and how to deploy it in
+  real-world applications. $48 using Coursera. Partnership with AWS
+  (SageMaker) & Hugging Face.
+- [Building Systems with the ChatGPT
+  API](https://www.deeplearning.ai/short-courses/): Level up your use of
+  LLMs. Learn to break down complex tasks, automate workflows, chain LLM
+  calls, and get better outputs. One hour. Free for a limited time.
+- [ChatGPT Prompt Engineering for
+  Developers](https://www.deeplearning.ai/short-courses/): Go beyond the
+  chat box. Use API access to leverage LLMs into your own applications,
+  and learn to build a custom chatbot. One hour. Free for a limited
+  time.
+- [LangChain for LLM Application
+  Development](https://www.deeplearning.ai/short-courses/): The
+  framework to take LLMs out of the box. Learn to use LangChain to call
+  LLMs into new environments, and use memories, chains, and agents to
+  take on new and complex tasks. One hour. Free for a limited time.
+
+#### YouTube
+
+- [How LlamaIndex Brings Data to LLMs](https://youtu.be/FQBou-YgxyE):
+  This talk was originally delivered at Arize:Observe 2023, a conference
+  on the intersection of large language models, generative AI, and
+  machine learning observability in the era of LLMops. It is the best
+  introduction to [LlamaIndex](https://www.llamaindex.ai/).
+
+#### Philipp Schmid blog
+
+[philschmid blog](https://www.philschmid.de/) by a Technical Lead at
+Hugging Face contains interesting articles.
+
+#### Udemy
+
+- [2023 Become AWS SageMaker ML Engineer in 30 Days +
+  ChatGPT](https://www.udemy.com/course/become-an-aws-machine-learning-engineer-in-30-days-new-2022/?kw=aws+sag&src=sac):
+  Build 30+ ML Projects in 30 Days in AWS, Master SageMaker JumpStart,
+  Canvas, AutoPilot, DataWrangler, Lambda & S3. Introductory course to
+  ML/AI with AWS SageMaker.
