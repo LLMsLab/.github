@@ -1621,3 +1621,7 @@ Hugging Face contains interesting articles.
   Build 30+ ML Projects in 30 Days in AWS, Master SageMaker JumpStart,
   Canvas, AutoPilot, DataWrangler, Lambda & S3. Introductory course to
   ML/AI with AWS SageMaker.
+
+### Hugging Face
+
+- [Daily Papers](https://huggingface.co/papers)
