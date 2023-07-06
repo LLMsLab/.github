@@ -1625,3 +1625,9 @@ Hugging Face contains interesting articles.
 #### Hugging Face
 
 - [Daily Papers](https://huggingface.co/papers)
+
+#### Can in-context leraning overcome supervised learning?
+
+- [Beyond Test Sets](https://www.deeplearning.ai/the-batch/how-prompting-is-changing-machine-learning-development/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=265192405&_hsenc=p2ANqtz-9x8kASxGqz2MANS1HNRd4mYTH3C9gXo-Xs-xwLNF-u0Uc0Oy-q0l826Dgfgze1MGexUb3aJef0mZtKP5gLXsxUJ0y8QmyLvQ_bT56t-kGiaFfD9kY)
+- [The Batch - July 5, 2023](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
+- [Can LLMs like GPT-4 outperform traditional AI tools in dementia diagnosis? Maybe, but not today](https://arxiv.org/abs/2306.01499)
