@@ -1575,6 +1575,7 @@ language models.
 - [Chroma](https://docs.trychroma.com/): Chroma is the open-source
   embedding database. Chroma makes it easy to build LLM apps by making
   knowledge, facts, and skills pluggable for LLMs.
+- [Notebook with and intro_to_Chroma_Database](https://github.com/LLMsLab/research-toolkit/blob/main/notebooks/Intro_to_Chroma_Database.ipynb)
 
 ### Training
 
