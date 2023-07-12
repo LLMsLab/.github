@@ -1633,3 +1633,7 @@ Hugging Face contains interesting articles.
 - [The Batch - July 5, 2023](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
 - [Can LLMs like GPT-4 outperform traditional AI tools in dementia diagnosis? Maybe, but not today](https://arxiv.org/abs/2306.01499)
 - [Against LLM maximalism](https://explosion.ai/blog/against-llm-maximalism)
+- 
+#### Comprehensive Directory of Pioneering AI Influencers Across Social Media
+
+- [sentdex](https://www.youtube.com/@sentdex)
